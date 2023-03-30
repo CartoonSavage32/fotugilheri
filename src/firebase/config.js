@@ -4,7 +4,7 @@ import 'firebase/firestore';
 
  // Your web app's Firebase configuration
  var firebaseConfig = {
-    apiKey: "AIzaSyC_2phxobRJuZzrxVy2mgmiaSID0F6O07k",
+    apiKey: "YOUR_API_KEY",
     authDomain: "fotugilheri.firebaseapp.com",
     projectId: "fotugilheri",
     storageBucket: "fotugilheri.appspot.com",
